@@ -1,4 +1,4 @@
-# Code created by Zhaojing Huang on 05 Deceomber 2023
+# Code created by Zhaojing Huang to evaluate the model on 05 Deceomber 2023
 
 import torch
 import torch.nn as nn
